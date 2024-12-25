@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhange</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN** stack and **Tailwind CSS**. I love building efficient, scalable, and user-friendly applications from the ground up.</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibhange&theme=dracula&hide_border=false" height="150">
