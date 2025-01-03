@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhange</h1>
-<h3 align="center">I'm a passionate computer engineer passionate about building modern and scalable web applications, I specialize in the MERN stack and have a strong foundation in designing user-friendly interfaces and efficient backends.</h3>
+<h3 align="center">As a passionate computer engineer, I specialize in building modern and scalable web applications using the MERN stack. I also have a strong foundation in designing user-friendly interfaces and efficient backends.</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibhange&theme=dracula&hide_border=false" height="150">
