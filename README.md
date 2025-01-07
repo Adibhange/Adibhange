@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React**.
 
-- 📫 How to reach me **bhangeaditya13@gmail.com**
+- 📫 How to reach me **Bhangeaditya13@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
