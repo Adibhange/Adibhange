@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adibhange&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 🌱 I’m currently learning **NextJS**.
-
 - 👯 I’m looking to collaborate on **MERN Projects**.
 
 - 💬 Ask me about **React**.
@@ -30,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
