@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**.
 
-- 💬 Ask me about **React**.
-
 - 📫 Reach me **Bhangeaditya13@gmail.com**
 
 
